@@ -28,5 +28,20 @@
     "tailwindcss": "^3.3.0",
     "eslint": "^8",
     "eslint-config-next": "14.1.4"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rochman72/Tehtes.git"
+  },
+  "keywords": [
+    "tehtes"
+  ],
+  "author": "rochman72",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rochman72/Tehtes/issues"
+  },
+  "homepage": "https://github.com/rochman72/Tehtes#readme"
 }
